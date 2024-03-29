@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: 0;
+    background-color: 0;
+}
+.Heading{
+    
+    margin-right: 50px;
+    text-align: center;
+    
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 700px;
+}
+li{
+    padding: 10px;
+}
+h1{
+    margin-left: 10px;
+}
+.navbar{
+    margin-top: 20px;
+    background-color: rgb(128, 117, 117);
+    color: bisque;
+}
+li:hover{
+    background-color: red;
+}
+.mission{
+    margin-top: 20px;
+    border-color: aquamarine;
+    border-width: 10px;
+    border-style: solid;
+    background-color: rgb(151, 131, 170);
+
+h3{
+    margin-top: 10px;
+    color: rgb(105, 9, 92);
+    
+}
+
+    h2{
+        color: rgb(222, 228, 231);
+    
+}
+}
+.vision{
+    margin-top: 20px;
+    border-color: aquamarine;
+    border-width: 10px;
+    border-style: solid;
+    background-color: rgb(151, 131, 170);
+
+h3{
+    margin-top: 10px;
+    color: rgb(105, 9, 92);
+    
+}
+h2{
+    color: rgb(222, 228, 231);
+
+}
+}
+
+
+   
+.Department{
+    
+    text-align: center;
+    margin-top: 10px;
+    
+    h1{
+        color: rgb(21, 109, 192);
+    }
+    h3{
+        margin-top: 10px;
+        color: rgb(83, 66, 179);
+    }
+}
+.Rounds{
+    h2{
+        color: brown;
+        text-align: center;
+    }
+
+.xob{
+   
+    border-color: black;
+    border-width: 5px;
+    border-style: dotted;
+    display: inline-block;
+    width: 200px;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 20px;
+
+}
+.oxb{
+   
+    border-color: black;
+    border-width: 5px;
+    border-style: dotted;
+    display: inline-block;
+    width: 200px;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 20px;
+
+}
+.box{
+   
+    border-color: black;
+    border-width: 5px;
+    border-style: dotted;
+    display: inline-block;
+    width: 200px;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    
+}
+text-align: center;
+}
+
+
+
+
+.Contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+h3{
+    padding: 10px;
+}
+}
+
+
+
+.chatbot{
+    text-align: center;
+}
